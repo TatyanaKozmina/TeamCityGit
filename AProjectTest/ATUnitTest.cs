@@ -7,7 +7,7 @@ namespace AProjectTest
         public void TestSaw()
         {
             var saw = new AProject.Saw();
-            Assert.IsTrue(saw.WhoAmI == "Saw", "Wrong property value");
+            Assert.IsTrue(saw.WhoAmI == "Saw", "Wrong property value. Should be Saw.");
         }
 
         [TestMethod]
