@@ -3,3 +3,8 @@
 ################################################################################
 
 /AProject/.vs
+/.vs/TeamCityGit/v17
+/.vs
+/AProject/obj
+/AProjectTest/bin/Debug/net6.0
+/AProjectTest/obj
